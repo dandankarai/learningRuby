@@ -28,7 +28,7 @@ class Person < RichPerson # This is heration in ruby
   end
 
   def adult! # Force some to execute
-    @age = 10
+   @age = 10
   end
   
 end

@@ -1,0 +1,1 @@
+onde_day_minutes = 1400
